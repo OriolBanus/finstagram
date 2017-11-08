@@ -1,8 +1,22 @@
+header{
+    background-color: #244751;
+    color: #E8FDFF;
+}
+body{
+    background-color: whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+}
 
-h1.love{
-color: red;
-font-size:  16pt;
+main{
+    background-color: white;
+    padding: 16px;
 }
 
 
+.post{
+    margin-bottom: 48px;
+}
 
+.post .user-info img{
+    border-radius: 50%;
+}
